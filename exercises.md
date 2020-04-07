@@ -45,3 +45,59 @@
 ## JUMPING JACKS
 
 ![jumping jacks](./img/jumping-jacks.gif)
+
+## ASSISTED ONE LEGGED SQUAT
+
+![assisted one legged squats](./img/assisted-one-legged-squat.gif)
+
+## ONE LEGGED SQUAT (PISTOL SQUAT)
+
+![one legged "pistol" squat](./img/pistol-squat.gif)
+
+## WALKING LUNGE
+
+![walking lunge](./img/walking-lunge.gif)
+
+## JUMP STEP-UPS
+
+![Jump step-ups](./img/step-up-jump.gif)
+
+## ASSISTED PULL-UPS (WITH BAND)
+
+![assisted pull-up](./img/assisted-pull-up.gif)
+
+## NEGATIVE PULL-UPS
+
+![negative pull-up](./img/negative-pull-up.gif)
+
+## PULL-UP
+
+![pull-up](./img/pull-up.gif)
+
+## CHIN-UPS
+
+![chin-up](./img/chin-up.gif)
+
+## INVERTED BODYWEIGHT ROW (OVERHAND)
+
+![inverted row](./img/incline-inverted-row.gif)
+
+## INVERTED BODYWEIGHT ROW (UNDERHAND)
+
+![inverted bodyweight row](./img/bodyweight-row.gif)
+
+## ASSISTED BODYWEIGHT DIPS
+
+![assisted dip](./img/assisted-dips.gif)
+
+## BODYWEIGHT DIPS
+
+![bodyweight dips](./img/dips.gif)
+
+## DECLINE PUSH-UPS
+
+![decline push-ups](./img/decline-push-up.gif)
+
+## KNEE PLANK
+
+![knee plank](./img/knee-plank.gif)
