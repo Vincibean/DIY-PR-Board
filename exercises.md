@@ -28,6 +28,20 @@ Start in a press-up position with hands elevated. Lower towards the bench, then 
 By placing your hands together and keeping your elbows close to your body to do a diamond push-up, the emphasis is placed upon your triceps as opposed to your chest.
 Start in a push-up position with your thumbs and index fingers of each hand touching to make a diamond shape. While keeping your elbows as close to your side as possible, lower yourself down until your chest touches the back of your hands. Keep everything tight (abs, glutes, thigh muscles) throughout the movement. Push back up to the starting position and repeat.
 
+## REVERSE PUSH-UPS
+![reverse push-ups](./img/reverse-push-ups.jpg)
+
+**Muscles Involved:** Brachialis, Grip Strength
+
+Assume a standard push-up position, but have your hands very wide, twice shoulder width apart. Turn your fingers so that they are pointing towards your feet.
+Now perform your push-ups, going as low as you can and feeling the isolation in the biceps.
+
+## DECLINE PUSH-UPS
+![decline push-ups](./img/decline-push-up.gif)
+
+## SIDE TO SIDE PUSH UP
+![side to side push up](./img/side-to-side-push-up.gif)
+
 ## ASSISTED BODYWEIGHT SQUAT
 ![assisted bodyweight squat](./img/assisted-bodyweight-squat.gif)
 
@@ -121,6 +135,9 @@ Start in a push-up position with your thumbs and index fingers of each hand touc
 ## INVERTED BODYWEIGHT ROW (UNDERHAND)
 ![inverted bodyweight row](./img/bodyweight-row.gif)
 
+Grasp the bar with an underhand grip at shoulder level and lower yourself so that you are hanging underneath it with feet extended out.
+Now, with your back arched, pull up so that your chin comes past the bar. Lower to full extension and repeat. Breathe in as you lower yourself and forcefully breathe out as you lift yourself.
+
 ## DOORWAY ROW
 ![doorway row](./img/doorway-row.gif)
 
@@ -129,9 +146,6 @@ Start in a push-up position with your thumbs and index fingers of each hand touc
 
 ## BODYWEIGHT DIPS
 ![bodyweight dips](./img/dips.gif)
-
-## DECLINE PUSH-UPS
-![decline push-ups](./img/decline-push-up.gif)
 
 ## KNEE PLANK
 ![knee plank](./img/knee-plank.gif)
@@ -150,9 +164,6 @@ Start in a push-up position with your thumbs and index fingers of each hand touc
 
 ## BOX JUMP
 ![box jump](./img/box-jump.gif)
-
-## SIDE TO SIDE PUSH UP
-![side to side push up](./img/side-to-side-push-up.gif)
 
 ## WALL WALK
 ![wall walk](./img/wall-walk.gif)
