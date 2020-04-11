@@ -22,6 +22,12 @@ Perform a standard press-up but with your arms double shoulder-width apart. Lowe
 
 Start in a press-up position with hands elevated. Lower towards the bench, then explode up until you’re almost standing. Clap your hands, put them back out to break your fall and go into the next rep.
 
+## DIAMOND PUSH-UP
+![diamond push-up](./img/diamond-push-up.gif)
+
+By placing your hands together and keeping your elbows close to your body to do a diamond push-up, the emphasis is placed upon your triceps as opposed to your chest.
+Start in a push-up position with your thumbs and index fingers of each hand touching to make a diamond shape. While keeping your elbows as close to your side as possible, lower yourself down until your chest touches the back of your hands. Keep everything tight (abs, glutes, thigh muscles) throughout the movement. Push back up to the starting position and repeat.
+
 ## ASSISTED BODYWEIGHT SQUAT
 ![assisted bodyweight squat](./img/assisted-bodyweight-squat.gif)
 
