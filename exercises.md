@@ -30,6 +30,24 @@
 
 ![one arm row](./img/dumbbell-row.gif)
 
+## REVERSE CRUNCH
+![reverse crunch](./img/reverse-crunch.gif)
+
+## HANGING KNEE TUCK
+![hanging knee tuck](./img/hang-knee-tuck.gif)
+
+## JUMPING KNEE TUCK
+![jumping knee tuck](./img/jumping-knee-tuck.gif)
+
+## HOLLOW BODY ROCKING
+![hollow body rocking](./img/hollow-body.gif)
+
+## KNEES TO ELBOWS
+![knees to elbow](./img/knees-to-elbows.gif)
+
+## TOES TO BAR
+![toes to bar](./img/toes-to-bar.gif)
+
 ## PLANK
 
 ![front plant](./img/front-plank.gif)
@@ -45,6 +63,18 @@
 ## JUMPING JACKS
 
 ![jumping jacks](./img/jumping-jacks.gif)
+
+## STAR JACKS
+
+![star jacks](./img/star-jacks.gif)
+
+## BURPEES
+
+![burpees](./img/burpee.gif)
+
+## BURPEES WITH PULL UP
+
+![burpees with pull up](./img/burpee-with-pull-up.gif)
 
 ## ASSISTED ONE LEGGED SQUAT
 
@@ -62,9 +92,16 @@
 
 ![Jump step-ups](./img/step-up-jump.gif)
 
+## BAR HANG
+![bar hang](./img/bar-hang.gif)
+
 ## ASSISTED PULL-UPS (WITH BAND)
 
 ![assisted pull-up](./img/assisted-pull-up.gif)
+
+## ASSISTED PULL-UPS (WITH BOX)
+
+![assisted pull-up with box](./img/assisted-pull-up-box.gif)
 
 ## NEGATIVE PULL-UPS
 
@@ -82,9 +119,16 @@
 
 ![inverted row](./img/incline-inverted-row.gif)
 
+## BODYWEIGHT ROW (LOW)
+
+![bodyweight row low](./img/bodyweight-row-low.gif)
+
 ## INVERTED BODYWEIGHT ROW (UNDERHAND)
 
 ![inverted bodyweight row](./img/bodyweight-row.gif)
+
+## DOORWAY ROW
+![doorway row](./img/doorway-row.gif)
 
 ## ASSISTED BODYWEIGHT DIPS
 
@@ -101,3 +145,24 @@
 ## KNEE PLANK
 
 ![knee plank](./img/knee-plank.gif)
+
+## SINGLE LEG DEADLIFT
+![single leg deadlift](./img/single-leg-deadlift.gif)
+
+## HIP BRIDGE
+![hip bridge](./img/hip-bridge.gif)
+
+## CALF RAISES
+![calf raises](./img/calf-raises.gif)
+
+## STEP UP
+![step up](./img/step-up.gif)
+
+## BOX JUMP
+![box jump](./img/box-jump.gif)
+
+## SIDE TO SIDE PUSH UP
+![side to side push up](./img/side-to-side-push-up.gif)
+
+## WALL WALK
+![wall walk](./img/wall-walk.gif)
