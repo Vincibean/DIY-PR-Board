@@ -4,21 +4,33 @@
 ## ELEVATED PUSH-UP
 ![elevated push-up](./img/elevated-push-up.gif)
 
+**Muscles Involved:** Lower Pectorals, Triceps
+
+Position yourself in front of a box or chair. Rest your hands on the box or chair, with your feet about four feet away. Your body should form a 45-degree angle when your arms are extended. Lower yourself toward the box. Exhale as you push straight up. Keep your elbows and arms over the box / chair at all times. Maintain a neutral spine position throughout.
+
 ## REGULAR PUSH-UP
 ![push-up](./img/push-up.gif)
 
-## SPIDER-MAM PRESS-UP
+**Muscles involved:** Pectoral, Triceps
+
+Lie face down on the floor with your hands shoulder width apart. Lift up to a fully extended arm position. Your body should form a straight line without sagging at the hips. Lower yourself down to the floor, moving in a perfectly plane position. Go down until your nose touches the floor. Keeping your core tight and your body perfectly flat, push back to the start position.
+
+## SPIDER-MAM PUSH-UP
 ![spider-man press-up](./img/spider-man-press-up.jpg)
 
 Start in the top of a press-up position. Bend your arms to lower your chest until it’s just off the floor and simultaneously bring one knee up to your elbow, then return to the start. Alternate knees. On the final single rep, make this super-slow – do it over a ten count.
 
-## WIDE-GRIP PRESS-UP
+## WIDE-GRIP PUSH-UP
 ![wide-grip press-up](./img/wide-grip-press-up.jpg)
 
-Perform a standard press-up but with your arms double shoulder-width apart. Lower your chest until it’s just off the floor, then press back up until your arms are straight.
+**Muscles Involved:** Outer Pectorals, Front deltoids
 
-## INCLINE CLAP PRESS-UP
+Perform a standard push-up but with your arms double shoulder-width apart. Lower your chest until it’s just off the floor, then press back up until your arms are straight.
+
+## INCLINE CLAP PUSH-UP
 ![incline clap press-up](./img/incline-clap-press-up.jpg)
+
+**Muscles Involved:** Pectorals, Triceps
 
 Start in a press-up position with hands elevated. Lower towards the bench, then explode up until you’re almost standing. Clap your hands, put them back out to break your fall and go into the next rep.
 
@@ -39,6 +51,8 @@ Now perform your push-ups, going as low as you can and feeling the isolation in 
 
 ## DECLINE PUSH-UPS
 ![decline push-ups](./img/decline-push-up.gif)
+
+**Muscles Involved:** Upper Pectorals, Front deltoids
 
 ## SIDE TO SIDE PUSH UP
 ![side to side push up](./img/side-to-side-push-up.gif)
@@ -147,6 +161,10 @@ Now, with your back arched, pull up so that your chin comes past the bar. Lower 
 
 ## BODYWEIGHT DIPS
 ![bodyweight dips](./img/dips.gif)
+
+**Muscles Involved:** Inner Pectorals, Triceps
+
+Stand between the bars with hands gripping the top of each support. Lift yourself up so that you are elevated at full arm extension. Cross your feet over. Lean slightly forward as you lower yourself down to a full extension. Push through your chest and triceps to rise back up.
 
 ## KNEE PLANK
 ![knee plank](./img/knee-plank.gif)
