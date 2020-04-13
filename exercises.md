@@ -29,7 +29,8 @@ By placing your hands together and keeping your elbows close to your body to do 
 Start in a push-up position with your thumbs and index fingers of each hand touching to make a diamond shape. While keeping your elbows as close to your side as possible, lower yourself down until your chest touches the back of your hands. Keep everything tight (abs, glutes, thigh muscles) throughout the movement. Push back up to the starting position and repeat.
 
 ## REVERSE PUSH-UPS
-![reverse push-ups](./img/reverse-push-ups.jpg)
+![reverse push-up 1](./img/reverse-push-up-1.jpg)
+![reverse push-up 2](./img/reverse-push-up-2.jpg)
 
 **Muscles Involved:** Brachialis, Grip Strength
 
