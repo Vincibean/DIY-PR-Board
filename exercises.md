@@ -69,7 +69,7 @@ Now perform your push-ups, going as low as you can and feeling the isolation in 
 ## REGULAR LUNGES
 ![lunges](./img/regular-lunges.gif)
 
-## ONE ARM ROW (Use a milk jug, suitcase, or actual dumbbell)
+## ONE ARM ROW
 ![one arm row](./img/dumbbell-row.gif)
 
 ## REVERSE CRUNCH
@@ -210,30 +210,35 @@ Stand with your feet shoulder width apart with your arms at your sides and fists
 
 ## ARM CIRCLES
 ![arm circles](./img/arm-circles.jpg)
+
 **Muscles Involved:** Medial deltoids, Rhomboids
 
 Stand with feet shoulder width apart. Straighten your arms and lift them to shoulder height so they are parallel with the floor. Without bending your elbows, rotate from the shoulders to perform slow and controlled rolls. Perform a set number of arm circles in one direction and then go in the opposite direction.
 
 ## PUNCHES
 ![punches](./img/punches.jpg)
+
 **Muscles Involved:** Front deltoids, Pectorals
 
 Stand at shoulder width with your arms bent up and closed fists facing toward you. Alternately turn your fist out and punch out vigorously. Keep your elbows down. Bring the fist back and around to face back to your chin. Repeat with the other arm. Do not hyperextend your arm. Pull back before the arm is fully extended. Go for speed, punching continually for 30-60 seconds.
 
 ## ELEVATED HAND WALK
 ![elevated hand walk](./img/elevated-hand-walk.jpg)
+
 **Muscles Involved:** Rear deltoids, Triceps
 
 Assume a plank position in front of a bench or box. Your fingers should be only about four inches from the chair legs. Keeping your core tight, step up onto the chair with one hand, then follow through with the other hand so that you are in a plank position on the chair. Reverse the motion to return to the start position. Exhale as you are pushing up.
 
 ## HANDSTAND HOLD
 ![handstand hold](./img/handstand-hold.jpg)
+
 **Muscles Involved:** Front deltoids, Trapezius
 
 Position yourself about six inches away from a wall on your hands and knees. Walk your legs up the wall to assume a handstand position with feet together. Keeping your core tight, hold for 30-60 seconds
 
 ## Crow Stand
 ![crow stand](./img/crow-stand.jpg)
+
 **Muscles Involved:** Front deltoids, Trapezius
 
 Position yourself on the floor with your palms on the ground about two feet in front of your feet. Your elbows should be on the outsides of your shoulders. Lean the lower body in as you straighten your arms to just short of full extension. Lift up into the pose, pushing into your body with your knees. Hold the top position, remembering to breathe naturally. Point your toes up and balance the weight from your hands, fingertips and palms. Hold for as long as you can, keeping the elbows up into the armpits.
