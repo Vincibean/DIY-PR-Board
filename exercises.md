@@ -195,7 +195,7 @@ Stand between the bars with hands gripping the top of each support. Lift yoursel
 Adopt a press-up position with your feet on a bench and your back and arms in a straight line. Keep your head tucked in and bend your arms to lower your head until it’s just off the floor. Push up.
 
 ## LATERAL RAISES
-![lateral raises](./img/lateral-raises.jpg)
+![lateral raises](./img/lateral-raises.gif)
 
 **Muscles Involved:** Front deltoids, Side deltoids
 
@@ -228,6 +228,12 @@ Stand at shoulder width with your arms bent up and closed fists facing toward yo
 **Muscles Involved:** Rear deltoids, Triceps
 
 Assume a plank position in front of a bench or box. Your fingers should be only about four inches from the chair legs. Keeping your core tight, step up onto the chair with one hand, then follow through with the other hand so that you are in a plank position on the chair. Reverse the motion to return to the start position. Exhale as you are pushing up.
+
+## DUMBBELL SHRUG
+![dumbbel shrug](./img/dumbbell-shrug.gif)
+**Muscles Involved:** Trapezius
+
+Hold a dumbbell in each hand by your side with your palms facing inwards. Raise your shoulders as high as you can, then lower them back down and repeat. 
 
 ## HANDSTAND HOLD
 ![handstand hold](./img/handstand-hold.jpg)
