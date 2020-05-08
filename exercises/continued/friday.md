@@ -6,7 +6,7 @@
 | Regular Crunches			          	| 20 - 20 - 20 |
 | Side Crunches          				| 20 - 20 - 20 |
 | Reverse Crunches			 		| 20 - 20 - 20 |
-| Diamon Push-Ups 					| 20 - 20 - 20 |
+| Diamond Push-Ups					| 20 - 20 - 20 |
 | Pike Push-Ups 					| 20 - 25 - 30 |
 | Incline Clap Push-Ups 				| 10 - 15 - 17 |
 | Alternated Curl					| 20 - 20 - 20 |
