@@ -7,8 +7,8 @@
 | Side Crunches          				| 20 - 20 - 20 |
 | Reverse Crunches 					| 20 - 20 - 20 |
 | Decline Push-Ups 					| 20 - 25 - 30 |
-| Alternated Curl					| 20 - 20 - 20 |
-| Bench Dip 						| 20 - 20 - 20 |
+| Alternated Curl					| 20 - 25 - 30 |
+| Bench Dip 						| 20 - 25 - 30 |
 | Arm Circles	 					| 20 - 20 - 20 |
 | Pike Push-Ups 					| 20 - 25 - 30 |
 | Lateral Raises 					| 15 - 17 - 20 |
