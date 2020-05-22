@@ -11,7 +11,7 @@
 | Incline Clap Push-Ups 				| 10 - 15 - 17 |
 | Alternated Curl					| 20 - 20 - 20 |
 | Arm Circles	 					| 20 - 20 - 20 |
-| Lateral Raises 					| 15 - 17 - 20 |
+| Lateral Raises 					| 17 - 20 - 25 |
 | One Arm Row				 		| 20 - 25 - 30 |
 | Inverted Bodyweight Row (Overhand)  	| 10 - 12 - 15 |
 | Dumbbell Shrug					| 40 - 45 - 50 |
