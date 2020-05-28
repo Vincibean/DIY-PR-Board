@@ -9,7 +9,7 @@
 | Wide Grip Push-Ups 				| 20 - 25 - 30 |
 | Arm Circles	 					| 20 - 20 - 20 |
 | Pike Push-Ups 					| 20 - 25 - 30 |
-| Lateral Raises 					| 15 - 17 - 25 |
+| Lateral Raises 					| 17 - 20 - 25 |
 | Front Raises 						| 15 - 17 - 20 |
 | Elevated Hand Walks 				| 20 - 20        |
 | Concentrated Curl 					| 50 - 50 - 50 |
