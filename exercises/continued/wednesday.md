@@ -14,5 +14,5 @@
 | Elevated Hand Walks                   | 20 - 20      |
 | Concentrated Curl                     | 50 - 50 - 50 |
 | French 1 Dumbbell                     | 20 - 25 - 30 |
-| Inverted Bodyweight Row (Underhand)   | 10 - 12 - 15 |
-| Dumbbell Shrug                        | 40 - 45 - 50 |
+| Inverted Bodyweight Row (Underhand)   | 12 - 15 - 17 |
+| Dumbbell Shrug                        | 50 - 50 - 50 |
