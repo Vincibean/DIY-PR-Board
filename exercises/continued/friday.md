@@ -14,4 +14,4 @@
 | Lateral Raises                        | 17 - 20 - 25 |
 | One Arm Row                           | 25 - 30 - 35 |
 | Inverted Bodyweight Row (Overhand)    | 12 - 15 - 17 |
-| Dumbbell Shrug                        | 40 - 45 - 50 |
+| Dumbbell Shrug                        | 50 - 50 - 50 |
