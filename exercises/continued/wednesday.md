@@ -2,10 +2,10 @@
 
 | Exercise                              | Reps         |
 |---------------------------------------|--------------|
-| Regular Push-Ups                      | 20 - 30 - 40 |
-| Regular Crunches                      | 20 - 30 - 40 |
-| Side Crunches                         | 20 - 30 - 40 |
-| Reverse Crunches                      | 20 - 30 - 40 |
+| Regular Push-Ups                      | 25 - 35 - 45 |
+| Regular Crunches                      | 25 - 35 - 45 |
+| Side Crunches                         | 25 - 35 - 45 |
+| Reverse Crunches                      | 25 - 35 - 45 |
 | Wide Grip Push-Ups                    | 20 - 25 - 30 |
 | Arm Circles                           | 20 - 20 - 20 |
 | Pike Push-Ups                         | 20 - 25 - 30 |
