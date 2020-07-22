@@ -13,5 +13,5 @@
 | Pike Push-Ups                         | 20 - 25 - 30 |
 | Lateral Raises                        | 17 - 20 - 25 |
 | One Arm Row                           | 30 - 35 - 40 |
-| Inverted Bodyweight Row (Overhand)    | 12 - 15 - 17 |
+| Inverted Bodyweight Row (Overhand)    | 12 - 15 - 20 |
 | Dumbbell Shrug                        | 50 - 50 - 50 |
