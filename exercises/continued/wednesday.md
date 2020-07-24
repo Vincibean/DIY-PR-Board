@@ -8,7 +8,7 @@
 | Reverse Crunches                      | 25 - 35 - 45 |
 | Wide Grip Push-Ups                    | 20 - 25 - 30 |
 | Arm Circles                           | 20 - 20 - 20 |
-| Pike Push-Ups                         | 20 - 25 - 30 |
+| Pike Push-Ups                         | 20 - 25 - 35 |
 | Lateral Raises                        | 17 - 20 - 25 |
 | Front Raises                          | 17 - 20 - 25 |
 | Elevated Hand Walks                   | 20 - 20      |
