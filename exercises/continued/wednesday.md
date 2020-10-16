@@ -6,7 +6,7 @@
 | Regular Crunches                      | 25 - 35 - 45 |
 | Side Crunches                         | 25 - 35 - 45 |
 | Reverse Crunches                      | 25 - 35 - 45 |
-| Wide Grip Push-Ups                    | 20 - 25 - 30 |
+| Wide Grip Push-Ups                    | 20 - 25 - 35 |
 | Arm Circles                           | 20 - 20 - 20 |
 | Pike Push-Ups                         | 20 - 25 - 35 |
 | Lateral Raises                        | 17 - 20 - 25 |
