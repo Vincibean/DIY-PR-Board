@@ -10,7 +10,7 @@
 | Alternated Curl                       | 25 - 35 - 50 |
 | Bench Dip                             | 30 - 35 - 40 |
 | Arm Circles                           | 20 - 20 - 20 |
-| Pike Push-Ups                         | 20 - 25 - 30 |
+| Pike Push-Ups                         | 25 - 30 - 35 |
 | Lateral Raises                        | 17 - 20 - 25 |
 | One Arm Row                           | 30 - 35 - 40 |
 | Inverted Bodyweight Row (Overhand)    | 12 - 15 - 20 |
