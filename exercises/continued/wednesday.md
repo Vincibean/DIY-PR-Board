@@ -2,9 +2,9 @@
 
 | Exercise                              | Reps         |
 |---------------------------------------|--------------|
-| Regular Push-Ups                      | 25 - 35 - 50 |
-| Regular Crunches                      | 25 - 35 - 50 |
-| Side Crunches                         | 25 - 35 - 50 |
+| Regular Push-Ups                      | 30 - 40 - 50 |
+| Regular Crunches                      | 30 - 40 - 50 |
+| Side Crunches                         | 30 - 40 - 50 |
 | Reverse Crunches                      | 25 - 35 - 50 |
 | Wide Grip Push-Ups                    | 20 - 25 - 35 |
 | Arm Circles                           | 20 - 20 - 20 |
