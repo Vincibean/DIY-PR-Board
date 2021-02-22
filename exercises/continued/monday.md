@@ -7,10 +7,10 @@
 | Side Crunches                         | 30 - 40 - 50 |
 | Reverse Crunches                      | 30 - 40 - 50 |
 | Decline Push-Ups                      | 25 - 30 - 35 |
-| Alternated Curl                       | 30 - 40 - 50 |
+| Alternated Curl                       | 40 - 45 - 50 |
 | Bench Dip                             | 35 - 40 - 45 |
 | Arm Circles                           | 20 - 20 - 20 |
-| Pike Push-Ups                         | 25 - 30 - 35 |
+| Pike Push-Ups                         | 30 - 32 - 35 |
 | Lateral Raises                        | 17 - 20 - 25 |
 | One Arm Row                           | 30 - 35 - 40 |
 | Inverted Bodyweight Row (Overhand)    | 12 - 15 - 20 |
